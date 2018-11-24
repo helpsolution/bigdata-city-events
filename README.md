@@ -7,12 +7,12 @@ http://data.computational-advertising.org
 http://contest.ipinyou.com/ipinyou-dataset.pdf
 
 Окружение:
-centos 7
+ Centos 7
 
 Технологии:
-HDFS
-Hadoop
-MapReduce
-Java
-Maven
-MrUnit
+-HDFS
+-Hadoop
+-MapReduce
+-Java 8
+-Maven
+-MrUnit
