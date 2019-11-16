@@ -1,18 +1,19 @@
-# bigdata-city-events
+## About
+Big data project for analyzing the data of cities
 
-Набор данных:
+## Dataset
 http://data.computational-advertising.org
 
-Информация по структуре данных:
+## Information about data structure
 http://contest.ipinyou.com/ipinyou-dataset.pdf
 
-Окружение:
- Centos 7
+## Environment
+Centos 7
 
-Технологии:
--HDFS
--Hadoop
--MapReduce
--Java 8
--Maven
--MrUnit
+## Technologies
+- Java 8
+- HDFS
+- Hadoop
+- MapReduce
+- Maven
+- MrUnit
